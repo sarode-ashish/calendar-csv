@@ -1,4 +1,6 @@
 # calendar-csv
+    - Repository has the Symfony 4.3 MVC PHP Application to calculate salary payment dates for the 
+      complete year.
 #### Prerequisites:-
 1) PHP 7.2.*
 2) Composer 1.7.2
